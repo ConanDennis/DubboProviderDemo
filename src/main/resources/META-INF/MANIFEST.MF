@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Class-Path: libs/spring-core-4.1.6.RELEASE.jar libs/spring-beans-4.1.6
+ .RELEASE.jar libs/commons-logging-1.1.1.jar libs/slf4j-api-1.7.5.jar 
+ libs/spring-2.5.6.SEC03.jar libs/spring-context-4.1.6.RELEASE.jar lib
+ s/spring-expression-4.1.6.RELEASE.jar libs/slf4j-log4j12-1.6.1.jar li
+ bs/spring-aspects-4.3.9.RELEASE.jar libs/spring-context-support-4.3.9
+ .RELEASE.jar libs/spring-beans-4.3.9.RELEASE.jar libs/spring-expressi
+ on-4.3.9.RELEASE.jar libs/spring-instrument-4.3.9.RELEASE.jar libs/sp
+ ring-instrument-tomcat-4.3.9.RELEASE.jar libs/spring-jdbc-4.3.9.RELEA
+ SE.jar libs/spring-jms-4.3.9.RELEASE.jar libs/spring-messaging-4.3.9.
+ RELEASE.jar libs/spring-aop-4.3.9.RELEASE.jar libs/spring-oxm-4.3.9.R
+ ELEASE.jar libs/spring-context-4.3.9.RELEASE.jar libs/spring-orm-4.3.
+ 9.RELEASE.jar libs/spring-core-4.3.9.RELEASE.jar libs/aopalliance-1.0
+ .jar libs/spring-tx-4.3.9.RELEASE.jar libs/commons-logging-1.2.jar li
+ bs/spring-test-4.3.9.RELEASE.jar libs/aopalliance-1.0.jar libs/jline-
+ 0.9.94.jar libs/spring-aop-4.1.6.RELEASE.jar libs/zkclient-0.4.jar li
+ bs/zkclient-2.0.jar libs/log4j-1.2.15.jar libs/javassist-3.15.0-GA.ja
+ r libs/zookeeper-3.3.6.jar libs/netty-3.2.0.Final.jar libs/dubbo-2.5.
+ 3.jar
+Main-Class: com.wenjie.dubboserver.DubboProvider
+
