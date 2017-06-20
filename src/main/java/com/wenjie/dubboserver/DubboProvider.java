@@ -14,6 +14,6 @@ public class DubboProvider {
                 new String[] { "applicationProvider.xml" });
         context.start();
         System.out.println("服务请求中，按任意键退出");
-        System.in.read();
+        System.in.read();    // 为保证服务一直开着，利用输入流的阻塞来模拟
     }
 }
